@@ -72,10 +72,7 @@ This project is a comprehensive demonstration of **pathfinding algorithms** appl
 
 ## Author
 
-**[Your Name]**
-Email: [[your.email@example.com](mailto:your.email@example.com)]
-LinkedIn: [Your LinkedIn URL]
-GitHub: [Your GitHub URL]
+**[Eesha Emaan]**
 
 ---
 
